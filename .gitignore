@@ -285,6 +285,6 @@ packages/react-devtools-inline/dist
 packages/react-devtools-shell/dist
 packages/react-devtools-timeline/dist
 
-
+infra/schema/.terraform
 # node
 node_modules
